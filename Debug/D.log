@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  RailWay.cpp
+  Source.cpp
+  Time.cpp
+  Train.cpp
+  Generating Code...
+C:\Users\tlvla\source\repos\D\D\Train.cpp(65): warning C4172: returning address of local variable or temporary: isTrue
+C:\Users\tlvla\source\repos\D\D\Time.cpp(56): warning C4172: returning address of local variable or temporary: isTrue
+C:\Users\tlvla\source\repos\D\D\Time.cpp(95): warning C4715: 'operator<<': not all control paths return a value
+  D.vcxproj -> C:\Users\tlvla\source\repos\D\Debug\Vector.exe
